@@ -1,7 +1,11 @@
 <resources>
     <string name="app_name">ProyectoUtem0122</string>
-    <string name="Welcome">Hello World!!</string>
-    <string name="siguiente">Siguiente</string>
+    <string name="Welcome">Bienvenido</string>
+    <string name="siguiente">Ir a Segunda Pantalla</string>
     <string name="pantalla">Segunda Pantalla</string>
-    <string name="volver">Primera Pantalla</string>
+    <string name="volver">Ir a Primera Pantalla</string>
+    <string name="cajita">Cuadrado</string>
+    <string name="circulito">Circulo</string>
+    <string name="interruptor">Switch</string>
+    <string name="textoCalendario">Calendario</string>
 </resources>
